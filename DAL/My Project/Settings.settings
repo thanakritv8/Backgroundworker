@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Curing_A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">packet size=4096;user id=sa;data source=10.40.1.10; persist security info=True;initial catalog=Curing;password=sa</Value>
+    </Setting>
+    <Setting Name="Curing_B" Type="System.String" Scope="User">
+      <Value Profile="(Default)">packet size=4096;user id=sa;data source=10.40.1.28; persist security info=True;initial catalog=Curing;password=sa</Value>
+    </Setting>
+    <Setting Name="DataCuring" Type="System.String" Scope="User">
+      <Value Profile="(Default)">packet size=4096;user id=sa;data source=10.40.1.41; persist security info=True;initial catalog=DataCuring;password=sa</Value>
+    </Setting>
+    <Setting Name="Tracking" Type="System.String" Scope="User">
+      <Value Profile="(Default)">packet size=4096;user id=sa;data source=10.40.1.27; persist security info=True;initial catalog=Tracking;password=P@ssw0rd</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

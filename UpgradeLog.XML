@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CuringRecorder">
+</Property><Property Name="Solution File" Value="D:\Develop\Monitor\New\CuringRecorder\CuringRecorder.sln">
+</Property><Property Name="Date" Value="Thursday, August 31, 2017">
+</Property><Property Name="Time" Value="11:36 AM">
+</Property></Properties><Event ErrorLevel="0" Project="CuringRecorder" Source="CuringRecorder\CuringRecorder.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="CuringRecorder" Source="CuringRecorder\CuringRecorder.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL\BLL.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Utility" Source="Utility\Utility.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Utility" Source="Utility\Utility.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="CuringRecorder.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CuringRecorder.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,45 @@
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\bin\Debug\BLL.dll
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\bin\Debug\BLL.pdb
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\bin\Debug\BLL.xml
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\bin\Debug\DAL.dll
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\bin\Debug\DAL.pdb
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\bin\Debug\DAL.xml
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\obj\Debug\BLL.dll
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\obj\Debug\BLL.xml
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\obj\Debug\BLL.pdb
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\bin\Debug\Utility.dll
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\bin\Debug\Utility.pdb
+C:\Users\150229\Documents\Visual Studio 2012\Projects\CuringRecorder\BLL\bin\Debug\Utility.xml
+D:\Develop\Monitor\New\CuringRecorder\BLL\bin\Debug\BLL.dll
+D:\Develop\Monitor\New\CuringRecorder\BLL\bin\Debug\BLL.pdb
+D:\Develop\Monitor\New\CuringRecorder\BLL\bin\Debug\BLL.xml
+D:\Develop\Monitor\New\CuringRecorder\BLL\bin\Debug\DAL.dll
+D:\Develop\Monitor\New\CuringRecorder\BLL\bin\Debug\Utility.dll
+D:\Develop\Monitor\New\CuringRecorder\BLL\bin\Debug\DAL.pdb
+D:\Develop\Monitor\New\CuringRecorder\BLL\bin\Debug\DAL.xml
+D:\Develop\Monitor\New\CuringRecorder\BLL\bin\Debug\Utility.pdb
+D:\Develop\Monitor\New\CuringRecorder\BLL\bin\Debug\Utility.xml
+D:\Develop\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+D:\Develop\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.Resources.resources
+D:\Develop\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+D:\Develop\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.dll
+D:\Develop\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.xml
+D:\Develop\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.pdb
+C:\Job\Monitor\New\CuringRecorder\BLL\bin\Debug\BLL.dll
+C:\Job\Monitor\New\CuringRecorder\BLL\bin\Debug\BLL.pdb
+C:\Job\Monitor\New\CuringRecorder\BLL\bin\Debug\BLL.xml
+C:\Job\Monitor\New\CuringRecorder\BLL\bin\Debug\DAL.dll
+C:\Job\Monitor\New\CuringRecorder\BLL\bin\Debug\Utility.dll
+C:\Job\Monitor\New\CuringRecorder\BLL\bin\Debug\DAL.pdb
+C:\Job\Monitor\New\CuringRecorder\BLL\bin\Debug\DAL.xml
+C:\Job\Monitor\New\CuringRecorder\BLL\bin\Debug\Utility.pdb
+C:\Job\Monitor\New\CuringRecorder\BLL\bin\Debug\Utility.xml
+C:\Job\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Job\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.Resources.resources
+C:\Job\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Job\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.dll
+C:\Job\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.xml
+C:\Job\Monitor\New\CuringRecorder\BLL\obj\Debug\BLL.pdb
